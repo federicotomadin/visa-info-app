@@ -1,0 +1,550 @@
+{
+  "visas": [
+    {
+      "id": "h1b",
+      "name": "H-1B Specialty Occupation",
+      "code": "H-1B",
+      "category": "Work",
+      "summary": "For professionals in specialty occupations requiring theoretical and practical application of specialized knowledge.",
+      "description": "The H-1B program allows employers to temporarily employ foreign workers in specialty occupations. A specialty occupation requires the theoretical and practical application of a body of specialized knowledge and a bachelor's degree or higher in the specific specialty.",
+      "eligibility": [
+        "Have a job offer from a U.S. employer",
+        "Bachelor's degree or higher in a specific specialty",
+        "Job must qualify as a specialty occupation",
+        "Employer must pay prevailing wage"
+      ],
+      "duration": "Initially up to 3 years, extendable to 6 years",
+      "canExtend": true,
+      "extendInfo": "Extensions beyond 6 years may be possible under certain circumstances related to green card processing.",
+      "requirements": [
+        {
+          "title": "Labor Condition Application (LCA)",
+          "description": "Employer must file an LCA with the Department of Labor"
+        },
+        {
+          "title": "Form I-129",
+          "description": "Petition for a Nonimmigrant Worker filed by employer"
+        },
+        {
+          "title": "Educational Documentation",
+          "description": "Proof of degree relevant to the specialty occupation"
+        },
+        {
+          "title": "H-1B Cap Registration",
+          "description": "Registration for the annual H-1B lottery (if applicable)"
+        }
+      ],
+      "processingTime": "Regular processing: 3-6 months; Premium processing: 15 calendar days",
+      "applicationFee": "$460 for Form I-129 plus additional fees based on employer size",
+      "officialLink": "https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations",
+      "tags": ["tech", "professional", "specialty", "STEM", "annual cap"],
+      "faqs": [
+        {
+          "question": "Is there a limit to the number of H-1B visas issued each year?",
+          "answer": "Yes, there is an annual cap of 65,000 regular H-1B visas plus an additional 20,000 for those with U.S. master's degrees or higher."
+        },
+        {
+          "question": "Can I apply for a green card while on H-1B status?",
+          "answer": "Yes, the H-1B is a dual-intent visa, meaning you can pursue permanent residency while maintaining H-1B status."
+        },
+        {
+          "question": "Can I change employers on an H-1B visa?",
+          "answer": "Yes, through an H-1B transfer process where the new employer files a petition on your behalf."
+        }
+      ]
+    },
+    {
+      "id": "l1a",
+      "name": "L-1A Intracompany Transferee Executive or Manager",
+      "code": "L-1A",
+      "category": "Work",
+      "summary": "For executives and managers transferring to a U.S. office of the same employer or its affiliate.",
+      "description": "The L-1A visa allows multinational companies to transfer executives and managers from foreign offices to offices in the United States.",
+      "eligibility": [
+        "Have worked for a foreign company for at least 1 year in the 3 years preceding the application",
+        "Foreign company must be related to U.S. company (parent, subsidiary, affiliate, or branch)",
+        "Must be coming to work in an executive or managerial capacity"
+      ],
+      "duration": "Initially up to 3 years, extendable to a maximum of 7 years",
+      "canExtend": true,
+      "requirements": [
+        {
+          "title": "Form I-129",
+          "description": "Petition for a Nonimmigrant Worker"
+        },
+        {
+          "title": "Evidence of qualifying relationship",
+          "description": "Documentation showing relation between foreign and U.S. company"
+        },
+        {
+          "title": "Evidence of executive/managerial capacity",
+          "description": "Job description and organizational charts"
+        },
+        {
+          "title": "Physical office requirement",
+          "description": "Proof of existing or new office space in the U.S."
+        }
+      ],
+      "processingTime": "Regular processing: 3-5 months; Premium processing: 15 calendar days",
+      "applicationFee": "$460 for Form I-129 plus $500 Fraud Prevention and Detection Fee",
+      "officialLink": "https://www.uscis.gov/working-in-the-united-states/temporary-workers/l-1a-intracompany-transferee-executive-or-manager",
+      "tags": ["executive", "manager", "multinational", "transfer"],
+      "faqs": [
+        {
+          "question": "Is there an annual cap for L-1A visas?",
+          "answer": "No, there is no annual limit on the number of L-1A visas that can be issued."
+        },
+        {
+          "question": "Can my spouse and children come with me?",
+          "answer": "Yes, your spouse and unmarried children under 21 can accompany you on L-2 visas. Spouses may apply for work authorization."
+        },
+        {
+          "question": "Can I apply for a green card while on L-1A status?",
+          "answer": "Yes, the L-1A is a dual-intent visa, and many use it as a pathway to permanent residency through the EB-1C category."
+        }
+      ]
+    },
+    {
+      "id": "o1",
+      "name": "O-1 Extraordinary Ability",
+      "code": "O-1",
+      "category": "Work",
+      "summary": "For individuals with extraordinary ability in sciences, arts, education, business, or athletics.",
+      "description": "The O-1 visa is for individuals who possess extraordinary ability in the sciences, arts, education, business, or athletics, or who have demonstrated a record of extraordinary achievement in the motion picture or television industry.",
+      "eligibility": [
+        "Demonstrate extraordinary ability in your field",
+        "Coming to the U.S. to continue work in your area of extraordinary ability",
+        "Have a U.S. employer or agent sponsor"
+      ],
+      "duration": "Initially up to 3 years, extendable in 1-year increments",
+      "canExtend": true,
+      "requirements": [
+        {
+          "title": "Form I-129",
+          "description": "Petition for Nonimmigrant Worker"
+        },
+        {
+          "title": "Evidence of extraordinary ability",
+          "description": "Awards, publications, high salary, memberships, media coverage, etc."
+        },
+        {
+          "title": "Consultation letter",
+          "description": "Advisory opinion from a relevant peer group or labor organization"
+        },
+        {
+          "title": "Contract/itinerary",
+          "description": "Details of activities planned in the U.S."
+        }
+      ],
+      "processingTime": "Regular processing: 2-4 months; Premium processing: 15 calendar days",
+      "applicationFee": "$460 for Form I-129",
+      "officialLink": "https://www.uscis.gov/working-in-the-united-states/temporary-workers/o-1-visa-individuals-with-extraordinary-ability-or-achievement",
+      "tags": ["artists", "scientists", "athletes", "extraordinary", "achievement"],
+      "faqs": [
+        {
+          "question": "How do I prove 'extraordinary ability'?",
+          "answer": "You must meet at least 3 out of 8 criteria established by USCIS, such as receiving major awards, being featured in publications, commanding a high salary, etc."
+        },
+        {
+          "question": "Is there a cap on O-1 visas?",
+          "answer": "No, there is no annual limit on the number of O-1 visas that can be issued."
+        },
+        {
+          "question": "Can I work for multiple employers on an O-1 visa?",
+          "answer": "Yes, but each employer must file a separate petition, or you can work through an agent who represents multiple employers."
+        }
+      ]
+    },
+    {
+      "id": "f1",
+      "name": "F-1 Student Visa",
+      "code": "F-1",
+      "category": "Study",
+      "summary": "For academic students admitted to a SEVP-certified school, college, or university.",
+      "description": "The F-1 visa allows foreign students to pursue academic studies and/or language training programs at U.S. schools, colleges, and universities that are certified by the Student and Exchange Visitor Program (SEVP).",
+      "eligibility": [
+        "Acceptance at a SEVP-certified school",
+        "Sufficient financial resources to study in the U.S.",
+        "Ties to home country",
+        "English language proficiency",
+        "Intent to depart the U.S. after completing studies"
+      ],
+      "duration": "Duration of your academic program plus optional practical training",
+      "canExtend": true,
+      "extendInfo": "Can be extended as long as you maintain full-time student status and make normal progress toward completing your degree.",
+      "requirements": [
+        {
+          "title": "Form I-20",
+          "description": "Certificate of Eligibility issued by your school"
+        },
+        {
+          "title": "DS-160",
+          "description": "Online Nonimmigrant Visa Application"
+        },
+        {
+          "title": "SEVIS Fee",
+          "description": "Student and Exchange Visitor Information System fee"
+        },
+        {
+          "title": "Financial Documentation",
+          "description": "Evidence of sufficient funds to cover expenses"
+        },
+        {
+          "title": "Visa Interview",
+          "description": "Required for most applicants at a U.S. embassy/consulate"
+        }
+      ],
+      "processingTime": "Varies by embassy/consulate; typically 2-4 weeks",
+      "applicationFee": "$160 application fee plus $350 SEVIS fee",
+      "officialLink": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html",
+      "tags": ["student", "academic", "university", "college", "OPT", "STEM"],
+      "faqs": [
+        {
+          "question": "Can I work while studying on an F-1 visa?",
+          "answer": "You can work on-campus up to 20 hours per week during the school year and full-time during breaks. Off-campus work is limited to Curricular Practical Training (CPT) and Optional Practical Training (OPT)."
+        },
+        {
+          "question": "What is Optional Practical Training (OPT)?",
+          "answer": "OPT is a period of up to 12 months (with a possible 24-month extension for STEM graduates) of temporary employment authorization directly related to your major area of study."
+        },
+        {
+          "question": "Can I bring my family with me?",
+          "answer": "Yes, your spouse and unmarried children under 21 can apply for F-2 dependent visas, but they cannot work in the U.S."
+        }
+      ]
+    },
+    {
+      "id": "m1",
+      "name": "M-1 Vocational Student Visa",
+      "code": "M-1",
+      "category": "Study",
+      "summary": "For students pursuing vocational or technical education at non-academic institutions.",
+      "description": "The M-1 visa category is for students who want to pursue a full course of study at a vocational or other recognized nonacademic institution (other than language training programs) in the United States.",
+      "eligibility": [
+        "Acceptance at an SEVP-certified vocational school",
+        "Sufficient financial resources",
+        "Intent to return to your home country after completing the program"
+      ],
+      "duration": "Length of program plus 30 days, up to a maximum of 1 year",
+      "canExtend": true,
+      "extendInfo": "Can be extended up to a maximum of 3 years total",
+      "requirements": [
+        {
+          "title": "Form I-20",
+          "description": "Certificate of Eligibility issued by your school"
+        },
+        {
+          "title": "DS-160",
+          "description": "Online Nonimmigrant Visa Application"
+        },
+        {
+          "title": "SEVIS Fee",
+          "description": "Student and Exchange Visitor Information System fee"
+        },
+        {
+          "title": "Financial Documentation",
+          "description": "Evidence of sufficient funds to cover expenses"
+        }
+      ],
+      "processingTime": "Varies by embassy/consulate; typically 2-4 weeks",
+      "applicationFee": "$160 application fee plus $350 SEVIS fee",
+      "officialLink": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html",
+      "tags": ["vocational", "technical", "non-academic", "training"],
+      "faqs": [
+        {
+          "question": "What's the difference between F-1 and M-1 visas?",
+          "answer": "F-1 visas are for academic studies at colleges and universities, while M-1 visas are for vocational and technical training. M-1 students have more restrictions on employment and duration of stay."
+        },
+        {
+          "question": "Can M-1 students work during their studies?",
+          "answer": "M-1 students cannot work on-campus and are generally not permitted to work during their studies. They may apply for practical training only after completing their studies."
+        },
+        {
+          "question": "Can I change from M-1 to F-1 status?",
+          "answer": "It is possible but difficult. You must apply for a change of status and demonstrate that you could not have anticipated the need for the change when you originally obtained the M-1 visa."
+        }
+      ]
+    },
+    {
+      "id": "b1b2",
+      "name": "B-1/B-2 Visitor Visa",
+      "code": "B-1/B-2",
+      "category": "Tourism/Business",
+      "summary": "For temporary visitors for business (B-1) or pleasure/tourism (B-2).",
+      "description": "The B-1/B-2 visitor visa is for people traveling to the United States temporarily for business (B-1), tourism, pleasure or visiting (B-2), or a combination of both (B-1/B-2).",
+      "eligibility": [
+        "Travel for legitimate business or tourism purposes",
+        "Plan to stay for a specific, limited period",
+        "Have funds to cover expenses",
+        "Have a residence outside the U.S. and other binding ties",
+        "Have no intention of abandoning your foreign residence"
+      ],
+      "duration": "Generally up to 6 months at a time",
+      "canExtend": true,
+      "extendInfo": "Can apply for extension using Form I-539",
+      "requirements": [
+        {
+          "title": "DS-160",
+          "description": "Online Nonimmigrant Visa Application"
+        },
+        {
+          "title": "Valid Passport",
+          "description": "Valid for at least six months beyond your intended stay"
+        },
+        {
+          "title": "Visa Interview",
+          "description": "At a U.S. Embassy or Consulate"
+        },
+        {
+          "title": "Evidence of ties to home country",
+          "description": "Proof you intend to return after your visit"
+        },
+        {
+          "title": "Purpose of trip documentation",
+          "description": "Itinerary, business meeting details, etc."
+        }
+      ],
+      "processingTime": "Varies by embassy/consulate; typically 2-3 weeks",
+      "applicationFee": "$160",
+      "officialLink": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html",
+      "tags": ["visitor", "tourism", "business", "temporary", "travel"],
+      "faqs": [
+        {
+          "question": "What activities are allowed on a B-1 visa?",
+          "answer": "B-1 allows for business activities such as consulting with business associates, attending conferences, negotiating contracts, or settling an estate. You cannot work for a U.S. employer or receive a salary from a U.S. source."
+        },
+        {
+          "question": "What's the difference between a B-2 visa and the Visa Waiver Program?",
+          "answer": "The Visa Waiver Program allows citizens of certain countries to visit the U.S. for up to 90 days without a visa. B-2 visas are for citizens of non-VWP countries or for those who plan to stay longer than 90 days."
+        },
+        {
+          "question": "Can I study on a B-1/B-2 visa?",
+          "answer": "You may participate in short recreational courses of study that are not for credit toward a degree. To pursue academic or vocational study, you need an F or M visa."
+        }
+      ]
+    },
+    {
+      "id": "e2",
+      "name": "E-2 Treaty Investor",
+      "code": "E-2",
+      "category": "Investment",
+      "summary": "For nationals of treaty countries investing a substantial amount in a U.S. business.",
+      "description": "The E-2 Treaty Investor visa allows a national of a treaty country to enter the United States when investing a substantial amount of capital in a U.S. business.",
+      "eligibility": [
+        "Be a national of a country with which the U.S. maintains a treaty of commerce and navigation",
+        "Have invested or be in the process of investing a substantial amount of capital in a U.S. enterprise",
+        "Be seeking to enter the U.S. solely to develop and direct the investment enterprise",
+        "Investment must be at risk and not marginal"
+      ],
+      "duration": "Initially 2 years, extendable in 2-year increments with no maximum limit",
+      "canExtend": true,
+      "requirements": [
+        {
+          "title": "DS-160",
+          "description": "Online Nonimmigrant Visa Application"
+        },
+        {
+          "title": "Form DS-156E",
+          "description": "Treaty Trader/Treaty Investor Application"
+        },
+        {
+          "title": "Investment Documentation",
+          "description": "Proof of investment funds and their source"
+        },
+        {
+          "title": "Business Documentation",
+          "description": "Business plan, lease, licenses, organizational documents"
+        },
+        {
+          "title": "Proof of Nationality",
+          "description": "Evidence of nationality of the treaty country"
+        }
+      ],
+      "processingTime": "2-4 months, varies by embassy/consulate",
+      "applicationFee": "$205 visa application fee",
+      "officialLink": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html",
+      "tags": ["investor", "business", "treaty", "investment", "entrepreneur"],
+      "faqs": [
+        {
+          "question": "What qualifies as a 'substantial investment'?",
+          "answer": "There is no minimum dollar amount, but it must be sufficient to establish a viable business. The investment should be substantial in relation to the total cost of the business."
+        },
+        {
+          "question": "Can my family come with me?",
+          "answer": "Yes, your spouse and unmarried children under 21 can accompany you with E-2 dependent visas. Spouses may apply for work authorization."
+        },
+        {
+          "question": "Can an E-2 visa lead to a green card?",
+          "answer": "The E-2 is not a direct path to a green card. However, some E-2 investors later qualify for other immigrant categories such as EB-5 or employment-based categories."
+        }
+      ]
+    },
+    {
+      "id": "eb5",
+      "name": "EB-5 Immigrant Investor",
+      "code": "EB-5",
+      "category": "Investment",
+      "summary": "For investors making a significant capital investment in a new commercial enterprise in the U.S.",
+      "description": "The EB-5 Immigrant Investor Program provides a pathway to permanent residency for individuals who invest capital in a new commercial enterprise in the United States that creates or preserves jobs for U.S. workers.",
+      "eligibility": [
+        "Invest $1.8 million in a new commercial enterprise (or $900,000 in a targeted employment area)",
+        "Create or preserve 10 full-time jobs for qualifying U.S. workers",
+        "Capital must be lawfully obtained",
+        "Active involvement in the business (at least through policy formation)"
+      ],
+      "duration": "Leads to permanent residency (conditional for 2 years, then permanent)",
+      "canExtend": false,
+      "requirements": [
+        {
+          "title": "Form I-526",
+          "description": "Immigrant Petition by Alien Entrepreneur"
+        },
+        {
+          "title": "Business Plan",
+          "description": "Comprehensive plan showing job creation potential"
+        },
+        {
+          "title": "Source of Funds Documentation",
+          "description": "Evidence of lawful source of investment capital"
+        },
+        {
+          "title": "Investment Documentation",
+          "description": "Proof the full investment amount has been committed"
+        },
+        {
+          "title": "Form I-485 or DS-260",
+          "description": "Application to Register Permanent Residence or Immigrant Visa Application"
+        }
+      ],
+      "processingTime": "2-3 years for I-526 approval, plus additional time for adjustment of status or consular processing",
+      "applicationFee": "$3,675 for Form I-526, plus additional fees for I-485 or immigrant visa",
+      "officialLink": "https://www.uscis.gov/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program",
+      "tags": ["investor", "permanent residency", "green card", "job creation", "entrepreneur"],
+      "faqs": [
+        {
+          "question": "What is a 'targeted employment area' (TEA)?",
+          "answer": "A TEA is either a rural area or an area with high unemployment (at least 150% of the national average). Investments in TEAs qualify for the reduced investment amount of $900,000."
+        },
+        {
+          "question": "What is conditional permanent residency?",
+          "answer": "EB-5 investors initially receive conditional permanent residency for 2 years. Before the end of this period, they must file Form I-829 to remove conditions and receive permanent green cards."
+        },
+        {
+          "question": "Can I invest in any type of business?",
+          "answer": "The investment must be in a 'new commercial enterprise' established after November 29, 1990, or in certain older businesses that are restructured or expanded. The business must benefit the U.S. economy and create the required jobs."
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "name": "K-1 Fiancé(e) Visa",
+      "code": "K-1",
+      "category": "Special",
+      "summary": "For foreign-citizen fiancé(e)s of U.S. citizens to enter the U.S. for marriage.",
+      "description": "The K-1 visa permits the foreign-citizen fiancé(e) of a U.S. citizen to enter the United States for the purpose of getting married within 90 days of arrival.",
+      "eligibility": [
+        "Be the fiancé(e) of a U.S. citizen",
+        "Intend to marry within 90 days of arriving in the U.S.",
+        "Have met in person at least once within the 2 years before filing the petition",
+        "Be legally free to marry"
+      ],
+      "duration": "90 days, non-renewable",
+      "canExtend": false,
+      "extendInfo": "Must marry and apply for adjustment of status within 90 days or depart the U.S.",
+      "requirements": [
+        {
+          "title": "Form I-129F",
+          "description": "Petition for Alien Fiancé(e) filed by the U.S. citizen"
+        },
+        {
+          "title": "DS-160",
+          "description": "Online Nonimmigrant Visa Application"
+        },
+        {
+          "title": "Proof of relationship",
+          "description": "Photos, correspondence, evidence of meetings"
+        },
+        {
+          "title": "Medical examination",
+          "description": "Completed by an embassy-approved physician"
+        },
+        {
+          "title": "Police certificates",
+          "description": "From countries where you've lived for more than 6 months"
+        }
+      ],
+      "processingTime": "5-8 months for USCIS approval, plus additional time for NVC processing and visa interview",
+      "applicationFee": "$535 for Form I-129F plus $265 visa application fee",
+      "officialLink": "https://travel.state.gov/content/travel/en/us-visas/immigrate/family-immigration/nonimmigrant-visa-for-a-fiance-k-1.html",
+      "tags": ["fiancé", "marriage", "relationship", "family", "90-day"],
+      "faqs": [
+        {
+          "question": "What happens after I arrive in the U.S. on a K-1 visa?",
+          "answer": "You must marry your U.S. citizen fiancé(e) within 90 days. After marriage, you can apply for adjustment of status to permanent resident using Form I-485."
+        },
+        {
+          "question": "Can my children come with me?",
+          "answer": "Yes, unmarried children under 21 can receive K-2 visas to accompany you to the U.S."
+        },
+        {
+          "question": "Can I work in the U.S. on a K-1 visa?",
+          "answer": "Not immediately. After arrival, you can apply for work authorization using Form I-765, but processing may take several months."
+        }
+      ]
+    },
+    {
+      "id": "u-visa",
+      "name": "U Nonimmigrant Status",
+      "code": "U Visa",
+      "category": "Special",
+      "summary": "For victims of certain crimes who have suffered mental or physical abuse and are helpful to law enforcement.",
+      "description": "The U nonimmigrant status (U visa) is set aside for victims of certain crimes who have suffered mental or physical abuse and are helpful to law enforcement or government officials in the investigation or prosecution of criminal activity.",
+      "eligibility": [
+        "Be a victim of qualifying criminal activity",
+        "Have suffered substantial physical or mental abuse",
+        "Have information about the criminal activity",
+        "Be helpful in the investigation or prosecution of the crime",
+        "The crime violated U.S. laws or occurred in the U.S."
+      ],
+      "duration": "4 years",
+      "canExtend": true,
+      "extendInfo": "Extensions available in certain circumstances related to law enforcement needs or exceptional circumstances",
+      "requirements": [
+        {
+          "title": "Form I-918",
+          "description": "Petition for U Nonimmigrant Status"
+        },
+        {
+          "title": "Form I-918 Supplement B",
+          "description": "U Nonimmigrant Status Certification signed by a law enforcement agency"
+        },
+        {
+          "title": "Personal statement",
+          "description": "Description of the criminal activity and your involvement"
+        },
+        {
+          "title": "Evidence of substantial harm",
+          "description": "Medical records, psychological evaluations, etc."
+        }
+      ],
+      "processingTime": "4-5 years due to annual cap and backlog",
+      "applicationFee": "No filing fee",
+      "officialLink": "https://www.uscis.gov/humanitarian/victims-of-human-trafficking-and-other-crimes/victims-of-criminal-activity-u-nonimmigrant-status",
+      "tags": ["victim", "crime", "humanitarian", "law enforcement", "abuse"],
+      "faqs": [
+        {
+          "question": "Can I apply for permanent residency with a U visa?",
+          "answer": "Yes, after maintaining U nonimmigrant status for at least 3 years, you may be eligible to apply for a green card."
+        },
+        {
+          "question": "What crimes qualify for a U visa?",
+          "answer": "Qualifying crimes include domestic violence, sexual assault, trafficking, kidnapping, murder, felonious assault, and other serious offenses."
+        },
+        {
+          "question": "Can family members receive U visas?",
+          "answer": "Yes, qualifying family members can receive derivative U visas. For applicants under 21, this includes spouse, children, parents, and unmarried siblings under 18. For applicants 21 or older, this includes spouse and children."
+        }
+      ]
+    }
+  ]
+}

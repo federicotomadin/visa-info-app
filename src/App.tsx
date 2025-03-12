@@ -1,35 +1,37 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Container } from 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
+
+// Import components
+import { Header } from './components/Header';
+import { Footer } from './components/Footer';
+import { HomePage } from './pages/HomePage';
+import VisaCategoryPage from './pages/VisaCategoryPage';
+import { VisaDetailPage } from './pages/VisaDetailPage';
+import { SearchPage } from './pages/SearchPage';
+import { FaqPage } from './pages/FaqPage';
+import { NotFoundPage } from './pages/NotFoundPage';
 
 function App() {
-  const [count, setCount] = useState(0)
-
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    return (
+        <Router basename="/us-visa-guide">
+            <div className="d-flex flex-column min-vh-100">
+                <Header />
+                <Container fluid className="flex-grow-1 my-4 px-md-4 px-lg-5">
+                    <Routes>
+                        <Route path="/" element={<HomePage />} />
+                        <Route path="/category/:category" element={<VisaCategoryPage />} />
+                        <Route path="/visa/:id" element={<VisaDetailPage />} />
+                        <Route path="/search" element={<SearchPage />} />
+                        <Route path="/faq" element={<FaqPage />} />
+                        <Route path="*" element={<NotFoundPage />} />
+                    </Routes>
+                </Container>
+                <Footer />
+            </div>
+        </Router>
+    );
 }
 
-export default App
+export default App;
